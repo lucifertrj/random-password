@@ -1,12 +1,10 @@
 '''
 
 author: Tarun R Jain
-complete content is my own
 github: github.com/lucifertrj
 
 '''
 
-#read comments to follow, Thank you -TRJ
 import random,string
 import tkinter as tk
 from tkinter import messagebox as mb
